@@ -3,6 +3,9 @@
 ## Overview
 This Python script scrapes the price of a specific product on Amazon and sends an email notification if the price drops below a specified threshold. It utilizes BeautifulSoup for web scraping, requests for sending HTTP requests, and smtplib for sending emails.
 
+![AmazonPriceTRacker](https://github.com/user-attachments/assets/7106bb96-1b01-4609-8902-84af1887d9f4)
+
+
 ## Prerequisites
 - Python 
 - BeautifulSoup (`pip install beautifulsoup4`)
